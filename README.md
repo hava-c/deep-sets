@@ -5,5 +5,4 @@ Permutation-invariant neural networks are deep neural networks whose output is i
 The file `Deep_sets.ipynb` can be opened using Google Colab where all necessary librairies and dependencies are available and ready to be used.
 
 [1] Deep Sets, M. Zaheer, S. Kottur, S. Ravanbhakhsh, B. Póczos, R. Salakhutdinov, A. Smola in NeurIPS, 2017.
-
 [2] Set Functions for Time Series M. Horn, M. Moor C. Bock, B Rieck, K Borgwardt in ICML, 2020.
